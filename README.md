@@ -42,4 +42,7 @@ Upload Requirements:
 
 Ideally the shorter the better, Clips less than 10 minutes generally do better with current internet audiences and their attention span these days. Though longer format content may be appropriate if it's quality and bitcoin signal relevance is of the highest quality. Often this in the context of the current cycle with insight beyond what's currently being regergitated by other personalities. nuance, origionality, uniqueness and insight is key. 
 
-  Sponsors: ideally there should not be any paid sponsors in these video's, but this may be negotiable depending on the feedback from contributers. At maximum the sponsorship should only be a visual within the video, and should not be talked about at all by contributers. wasting peoples time shilling for your sponsor is cringe and degrades the signal. 
+Sponsors: ideally there should not be any paid sponsors in these video's, but this may be negotiable depending on the feedback from contributers. At maximum the sponsorship should only be a visual within the video, and should not be talked about at all by contributers. wasting peoples time shilling for your sponsor is cringe and degrades the signal. 
+
+Audience Donations: 
+a static lightning network QR code can be used by contributers to recieve donations from the audience. Donations to the channels donation links can be tracked using tally.coin for auditability and feedback. this pot of funds would be custodied by the channel administrater and would be compensation at first for their work maintain the channel. If the channel can self fund through monetization, the donation pot could shift to being a community fund.
