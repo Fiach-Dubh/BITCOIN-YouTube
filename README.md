@@ -41,3 +41,5 @@ Ideally only strong ethically minded bitcoin only content creators are invited t
 Upload Requirements:
 
 Ideally the shorter the better, Clips less than 10 minutes generally do better with current internet audiences and their attention span these days. Though longer format content may be appropriate if it's quality and bitcoin signal relevance is of the highest quality. Often this in the context of the current cycle with insight beyond what's currently being regergitated by other personalities. nuance, origionality, uniqueness and insight is key. 
+
+  Sponsors: ideally there should not be any paid sponsors in these video's, but this may be negotiable depending on the feedback from contributers. At maximum the sponsorship should only be a visual within the video, and should not be talked about at all by contributers. wasting peoples time shilling for your sponsor is cringe and degrades the signal. 
