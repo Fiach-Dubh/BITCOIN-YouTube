@@ -32,7 +32,7 @@ Could start with 2 seperate Bitcoin youtube channels. one for anyone to upload, 
 Revenue Sharing:
 
 If the channel(s) ever get monetized then a revenue sharing agreement should be in order between the administrator of the Channel and the contributers.
-Ideally the contributers should recieve the lion share of the revenue generated. a 50/50 split seems greedy. thus maybe a 20/80 split would be more ideal (80 for contnet creators/uploaders)
+Ideally the contributers should recieve the lion share of the revenue generated. a 50/50 split seems greedy. thus maybe a 20/80 split would be more ideal (80 for contnet creators/uploaders), or instead of a percentage, the administrator would be paid a fixed rate for their time working to manage the channel and distribute payouts to contributers. this would likely be a manual process relying on YouTube monetiziation analytics. Payouts could be strucutured monthly, with yearly bonus payouts for any revenue generated past the first month of viewership for video's. 
 
 Invitation Requirements:
 
