@@ -2,6 +2,7 @@
 The First Open Source YouTube Channel?
 
 www.YouTube.com/BITC0IN
+https://twitter.com/BITCOINALLCAPS
 
 Want to join as a contributer to the Channel? make a pull request!
 
