@@ -64,5 +64,5 @@ Checks and Balances:
 
 3 Strike System:
 
-Many rules govern the channel that have not been written down formally. There are edge cases that can't be covered entirely. But generally, contributers should not be dicks with their shilling or modification of channel content. Bad actors who abuse their powers will be removed. Generally you'll recieve a few warnings if you test the boundaries. Do this enough and you may be removed from being a contributer. Extreme acts of bad faith will be delt with no mercy.
+Many rules govern the channel that have not been written down formally. There are edge cases that can't be covered entirely. But generally, contributers should not be dicks with their shilling or modification of channel content. Bad actors who abuse their powers will be removed. Generally you'll recieve a few warnings if you test the boundaries. Do this enough and you may be removed from being a contributer. 
 
