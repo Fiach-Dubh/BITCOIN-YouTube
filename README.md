@@ -7,6 +7,10 @@ https://twitter.com/BITCOINALLCAPS
 
 Want to join as a contributer to the Channel? make a pull request!
 
+Channel Function and Thesis:
+
+There's some great Bitcoin content out there, but it's all spread out in the vast spance of the internet on different branded channels. Thus some of the better content can get lost in noise. There's also a great deal of noise in the Bitcoin space that is unfortunatly redundent or not really all that helpful. Thus, it's helpful for there to be a level of content curation for the general masses on the Bitcoin story. This is where the BITCOIN YouTube channel steps in. We sift through all the noise, find the signal and boost that signal to a general audience under the BITCOIN banner. This serves to highlight voices and messages that are high quality BITCOIN signal but often get lost in the noise.
+
 Achievments
 
 So far we've been tracking the Bitcoin story and evolution through the public conciousness as seen mostly in mainstream news. Though often we promote and cover informative and educational video's that are high quality and recent Bitcoin content. The net result is a cronological video timeline spanning the recent years of Bitcoin's history of mainstream adoption, primarily from a North Americain perspective. Starting with Yellen's Bitcoin-sign photo bomb moment in 2017.
