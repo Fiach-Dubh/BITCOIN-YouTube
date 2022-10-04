@@ -73,10 +73,15 @@ Currently the channel is not monetized via google ads, and can't be due to googl
 But if the channel(s) ever gets monetized then a revenue sharing agreement should be in order between the administrator of the Channel and the contributers.
 Ideally the contributers should recieve the lion share of the revenue generated. a 50/50 split seems greedy. thus maybe a 10/90 split would be more ideal (90 for content creators/uploaders), or instead of a percentage, the administrator would be paid a fixed rate for their time working to manage the channel and distribute payouts to contributers. this would likely be a manual process relying on YouTube monetiziation analytics. Payouts could be strucutured monthly, with yearly bonus payouts for any revenue generated past the first month of viewership for video's. this may not be relevant at all though, since there's no revenue genreation from this channel yet.
 
-
 Checks and Balances:
 
 3 Strike System:
 
 Many rules govern the channel that have not been written down formally. There are edge cases that can't be covered entirely. But generally, contributers should not be dicks with their shilling or modification of channel content. Bad actors who abuse their powers will be removed or even blackballed further across the ecosystem. Generally you'll recieve a few warnings if you test the boundaries. Do this enough and you may be removed from being a contributer. 
+
+Copyright and/or Trademark Ownership
+
+All rights to uploaded works to the BITCOIN YouTube are that of the contributers. We make no claims on the copyright or trademark ownership of contributions by contributers.
+
+All video's uploaded by the administrater are for public use in the public domain under fair use.
 
