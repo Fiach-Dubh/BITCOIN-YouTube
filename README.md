@@ -13,6 +13,8 @@ There's some great Bitcoin content out there, but it's all spread out in the vas
 
 Achievments
 
+65000 subscribers
+
 So far we've been tracking the Bitcoin story and evolution through the public conciousness as seen mostly in mainstream news. Though often we promote and cover informative and educational video's that are high quality and recent Bitcoin content. The net result is a cronological video timeline spanning the recent years of Bitcoin's history of mainstream adoption, primarily from a North Americain perspective. Starting with Yellen's "BUY BITCOIN" sign photo bomb moment.
 
 Purpose:
@@ -71,7 +73,7 @@ Revenue Sharing:
 Currently the channel is not monetized via google ads, and can't be due to google's rules.
 
 But if the channel(s) ever gets monetized then a revenue sharing agreement should be in order between the administrator of the Channel and the contributers.
-Ideally the contributers should recieve the lion share of the revenue generated. a 50/50 split seems greedy. thus maybe a 10/90 split would be more ideal (90 for content creators/uploaders), or instead of a percentage, the administrator would be paid a fixed rate for their time working to manage the channel and distribute payouts to contributers. this would likely be a manual process relying on YouTube monetiziation analytics. Payouts could be strucutured monthly, with yearly bonus payouts for any revenue generated past the first month of viewership for video's. this may not be relevant at all though, since there's no revenue genreation from this channel yet.
+Ideally the contributers should recieve the lion share of the revenue generated. Thus maybe a 1/99 split would be more ideal (99 for content creators/uploaders), or instead of a percentage, the administrator would be paid a fixed rate for their time working to manage the channel and distribute payouts to contributers. this would likely be a manual process relying on YouTube monetiziation analytics. Payouts could be strucutured monthly, with yearly bonus payouts for any revenue generated past the first month of viewership for video's. this may not be relevant at all though, since there's no revenue genreation from this channel currently, and maybe contributers and the community don't want this channel to be monetized. 
 
 Checks and Balances:
 
