@@ -35,6 +35,8 @@ We hope to invite high quality producers of Bitcoin content to contribute to the
 
 This serves to boost your message and spread quality information to the masses under the Bitcoin banner. As it is sometimes difficult for some content to get exposure, this may serve creators well if they are trying to build an audience, spread their message, or promote their own youtube channel, twitter account, or other social media platforms. You can even use the end screen to point to your own youtube channel and/or video's. The goal though is to always spread relevant quality Bitcoin signal. But please don't shill referral links or ads. If you do this, we may have to remove your video.
 
+If you just want to use the BITCOIN YouTube channel as a way to make short trailer like video's that link to your longer form video's, that's fine. Just don't over do it, and try to make it high signal.
+
 A draw back of this and YouTube is the centralized nature of this design. We acknowledge this is not a purely decentralized setup. there is a centralized choke points to YouTube channel management and participation. But we hope that by always aiming for that ideal we will consistently improve towards it and respect the integrity of the work contributers to Bitcoin build.
 
 Structure:
