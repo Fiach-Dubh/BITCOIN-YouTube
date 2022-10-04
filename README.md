@@ -2,10 +2,12 @@
 The First Open Source YouTube Channel
 
 www.YouTube.com/BITC0IN
+
 https://twitter.com/ytBITCOIN
 
 Admin:
 https://twitter.com/BITCOINALLCAPS
+
 https://www.reddit.com/user/Fiach_Dubh/
 
 Managers:
