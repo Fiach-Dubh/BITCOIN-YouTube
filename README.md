@@ -36,7 +36,7 @@ To spread high quality Bitcoin signal.
 
 Goals:
 
-To make this channel a hands off, equal oppurtunity platform for Bitcoin only content creators and educators. The PBS of Bitcoin.
+To make this channel a hands off, merit based, equal oppurtunity platform for Bitcoin only content creators and educators. The PBS of Bitcoin.
 
 Who We Are:
 
@@ -62,7 +62,7 @@ We'll begin by inviting the higher quality producers to contribute, prioritizing
 
 Contributer Invitation Requirements:
 
-Ideally only strong ethically minded bitcoin only content creators are invited to join. This may also include certain strong Bitcoin only personalities. The initial round of invitations would be sent out by the administrator, but anyone can request to be acontributer. Current contributers can also invite others to join. It's generally an open door policy, but does require the contributer to understand the purpose and standards of the Channel, and follow it's ideals.
+Ideally only strong ethically minded bitcoin only content creators are invited to join. This may also include certain strong Bitcoin only personalities and developers who do not have their own platforms. The initial round of invitations would be sent out by the administrator, but anyone can request to be acontributer. Current contributers can also invite others to join. It's generally an open door policy, but does require the contributer to understand the purpose and standards of the Channel, and follow it's ideals.
 
 Upload Requirements:
 
