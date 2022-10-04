@@ -25,7 +25,7 @@ To make this channel the PBS of Bitcoin.
 
 Who We Are:
 
-Bitcoin community volenteers and educaters. Our main base of operations is r/bitcoin.
+Bitcoin community volenteers and educaters. Our main base of operation is reddit.com/r/bitcoin.
 
 Strategy:
 
