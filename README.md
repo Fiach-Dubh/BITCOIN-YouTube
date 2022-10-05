@@ -75,6 +75,10 @@ Ideally the shorter the better, Clips less than 10 minutes generally do better w
 
 On Sponsors: ideally there should not be any paid sponsors in these contributer video's, but this may be negotiable depending on the feedback from contributers. At maximum the sponsorship should only be a visual within the video, and should not be talked about at all by contributers. wasting peoples time shilling for your sponsor is cringe and degrades the signal. 
 
+Upload Guidelines:
+
+Please check to make sure you are the only video upload for the day on the channel. We want to keep the upload rate to a maximum of once per day, otherwise the audience and youtube algorithim will get burnt out. It would also be best to wait for another video to be uploaded by a different contributer before you upload a new video of your own. Two or more video's in a row from the same contributer can also cause audience fatigue, but may be warranted if the quality is high. Feedback on this may be provided by the channel admin
+
 Benefits For Contributers:
 
 Exposure:
