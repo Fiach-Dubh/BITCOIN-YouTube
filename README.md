@@ -83,7 +83,7 @@ Benefits For Contributers:
 
 Exposure:
 
-contributers are encouraged to link back to their channels through the end screen icons. they may also modify the video description to do the same. please no shilling of referral links though.
+contributers are encouraged to link back to their channels through the end screen icons. they may also modify the video description to do the same. please no shilling of referral links, ad or promotions though.
 
 Access to the Entire Library of BITCOIN Content:
 
