@@ -11,6 +11,8 @@ https://twitter.com/BITCOINALLCAPS
 
 https://www.reddit.com/user/Fiach_Dubh/
 
+BlTC0IN@pm.me
+
 Managers:
 NA
 
@@ -112,4 +114,8 @@ Copyright and/or Trademark Ownership
 All rights of uploaded works to the BITCOIN YouTube channel are that of the contributers. We make no claims on the copyright or trademark ownership of contributions by contributers. It's their content, they get to decide what happens to it. If they use someone else's works or abuse someone else's rights, the video in question may be removed.
 
 All video's uploaded by the administrater are for public use in the public domain under fair use.
+
+Process For Uploading Video's to BITCOIN YouTube if You Don't Have a Contributer Account:
+
+If you don't wish to go the gmail account login in rought, or just want to do a one time upload of your content, please feel free to submit an Issue, using "Issues" tab. Include a link to your content and desired parameters for upload. You can also contact the admin of the channel via twitter, email or reddit with the same details. 
 
