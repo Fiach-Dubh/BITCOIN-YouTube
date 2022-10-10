@@ -117,5 +117,5 @@ All video's uploaded by the administrater are for public use in the public domai
 
 Process For Uploading Video's to BITCOIN YouTube if You Don't Have a Contributer Account:
 
-If you don't wish to go the gmail account login in rought, or just want to do a one time upload of your content, please feel free to submit an Issue, using "Issues" tab on this github page. Include a link to your content and desired parameters for upload. You can also contact the admin of the channel via twitter, email or reddit with the same details. 
+If you don't wish to go the gmail account login in rought, or just want to do a one time upload of your content, please feel free to submit an Issue, using the "Issues" tab on this github page. Include a link to your content and desired parameters for upload. You can also contact the admin of the channel via twitter, email or reddit with the same details. 
 
