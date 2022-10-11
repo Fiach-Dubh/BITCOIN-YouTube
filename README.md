@@ -5,7 +5,11 @@ www.YouTube.com/BITC0IN
 
 https://twitter.com/ytBITCOIN
 
-Admin:
+Odysee.com/@BITCOIN:98c
+
+http://Rumble.com/c/BITC0IN
+
+Admin Contact:
 
 https://twitter.com/BITCOINALLCAPS
 
@@ -34,6 +38,8 @@ Achievments:
 700+ Videos
 
 Channel is Verified ✅
+
+All Uploaded Video's Are Automatically Reuploaded to Rumble and Odysee
 
 So far we've been tracking the Bitcoin story and evolution through the public conciousness as seen mostly in mainstream news. Though often we promote and cover informative and educational video's that are high quality and recent Bitcoin content. The net result is a cronological video timeline spanning the recent years of Bitcoin's history of mainstream adoption, primarily from a North Americain perspective. Starting with Yellen's "BUY BITCOIN" sign photo bomb moment.
 
