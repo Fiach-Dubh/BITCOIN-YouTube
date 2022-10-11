@@ -79,7 +79,11 @@ Ideally only strong ethically minded bitcoin only content creators are invited t
 
 Upload Requirements:
 
-Ideally the shorter the better, Clips less than 10 minutes generally do better with current internet audiences and their attention span these days. Though longer format content may be appropriate if it's quality and bitcoin signal relevance is of the highest quality. Often this in the context of the current cycle with insight beyond what's currently being regergitated by other personalities. nuance, origionality, uniqueness and insight is key. 
+Uploads whould be focused on BITCOIN only, and be primarily aimed at educating people. TA, Price, and Macro bullshit is generally discouraged. These topics are usually already covered extensivly on other platforms. "News" segments are also extremely over covered, but may be useful for the audience if they recieve the source material of hearings and the like.
+
+Generally the same rules that govern reddit.com/r/bitcoin submissions apply to this Youtube channel: https://www.reddit.com/r/Bitcoin/comments/i19uta/bitcoin_newcomers_faq_please_read/
+
+Ideally the shorter the video is the better, Clips less than 10 minutes generally do better with current internet audiences and their attention span these days. Though longer format content may be appropriate if it's quality and bitcoin signal relevance is of the highest quality. Often this in the context of the current cycle with insight beyond what's currently being regergitated by other personalities. nuance, origionality, uniqueness and insight is key. 
 
 On Sponsors: ideally there should not be any paid sponsors in these contributer video's, but this may be negotiable depending on the feedback from contributers. At maximum the sponsorship should only be a visual within the video, and should not be talked about at all by contributers. wasting peoples time shilling for your sponsor is cringe and degrades the signal. 
 
