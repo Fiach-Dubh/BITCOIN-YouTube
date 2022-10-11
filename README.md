@@ -5,7 +5,7 @@ www.YouTube.com/BITC0IN
 
 https://twitter.com/ytBITCOIN
 
-Odysee.com/@BITCOIN:98c
+https://Odysee.com/@BITCOIN:98c
 
 http://Rumble.com/c/BITC0IN
 
