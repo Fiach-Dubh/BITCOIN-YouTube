@@ -115,6 +115,8 @@ Checks and Balances:
 
 Many rules govern the channel that have not been written down formally. There are edge cases that can't be covered entirely. But generally, contributers should not be dicks with their shilling or modification of channel content. Bad actors who abuse their powers will be removed. Generally you'll recieve a few warnings if you test the boundaries. Feedback will also be given generally, though not always.
 
+Uploads whould be focused on BITCOIN only, and be primarily aimed at educating people. TA, Price, and Macro bullshit is generally discouraged. These topics are usually already covered extensivly on other platforms.
+
 Copyright and/or Trademark Ownership
 
 All rights of uploaded works to the BITCOIN YouTube channel are that of the contributers. We make no claims on the copyright or trademark ownership of contributions by contributers. It's their content, they get to decide what happens to it. If they use someone else's works or abuse someone else's rights, the video in question may be removed.
