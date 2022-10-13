@@ -114,7 +114,7 @@ Funds raised will be used to cover channel expenses, and to issue grants to cont
 
 Video Editing Collaberation:
 
-Bitcoin experts, developers and other contributers may also want to make an "Issues" request to have their video edited to include animations, graphics or to improve audio, video and/or pacing of the video. Other contributers may then be able to help add these elements to collaberativly build high quality and engaging content. 
+Bitcoin experts, developers and other contributers may also want to make an "Issues" request to have their video edited to include animations, graphics or to improve audio, video and/or pacing of the video. Other contributers may then be able to help add these elements to collaberativly build high quality and engaging content. For chat collaberation among contributers this discord channel is one option: https://discord.gg/TyhPhH4Mpq
 
 Revenue Sharing:
 
