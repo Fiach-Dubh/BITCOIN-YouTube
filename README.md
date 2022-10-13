@@ -102,7 +102,7 @@ Access to the Entire Library of BITCOIN Content:
 you can use and download any of the past video's uploaded to the channel. but please do not delete or modify any of the video's that are not yours, or you will be removed from the project. 
 
 Audience Donations: 
-a static lightning network QR code can be used by contributers to recieve donations from the audience. ZBD.gg is a great wallet for this function. Just don't over solicit fo donations, it's cringe. 
+a static lightning network QR code can be used by contributers to recieve donations from the audience. ZBD.gg is a great wallet for this function. Just don't over solicit for donations. it's cringe and degrades the signal. 
 
 Donations to the channel will be tracked using tally.coin for auditability and feedback: https://tallycoin.app/@bitcoinallcaps/bitcoin-youtube-tip-page-av5s8l/
 
