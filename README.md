@@ -104,7 +104,13 @@ you can use and download any of the past video's uploaded to the channel. but pl
 Audience Donations: 
 a static lightning network QR code can be used by contributers to recieve donations from the audience. ZBD.gg is a great wallet for this function. Just don't over solicit fo donations, it's cringe. 
 
-Donations to the channels donation links can be tracked using tally.coin for auditability and feedback.
+Donations to the channel will be tracked using tally.coin for auditability and feedback: https://tallycoin.app/@bitcoinallcaps/bitcoin-youtube-tip-page-av5s8l/
+
+Funds raised will be used to cover channel expenses, and to issue grants to contributers who need to purchase hardware such as mics, cameras or video editing software. Priority for these grants will be given to developers first.
+
+Video Editing Collaberation:
+
+Bitcoin experts, developers and other contributers may also want to make an "Issues" request to have their video edited to include animations, graphics or to improve audio, video and/or pacing of the video. Other contributers may then be able to help add these elements to collaberativly build high quality and engaging content. 
 
 Revenue Sharing:
 
