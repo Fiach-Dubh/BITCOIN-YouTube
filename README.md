@@ -9,7 +9,7 @@ https://Odysee.com/@BITCOIN:98c
 
 http://Rumble.com/c/BITC0IN
 
-Contributer Collaberation Chat:
+BITCOIN YouTube Chat:
 
 https://discord.gg/TyhPhH4Mpq
 
