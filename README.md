@@ -27,7 +27,7 @@ NA
 Contributers:
 NA
 
-Want to join as a contributer to the Channel? make a request in"Issues"!
+Want to join as a contributer to the Channel? make a request in "Issues"!
 
 Channel Function and Thesis:
 
