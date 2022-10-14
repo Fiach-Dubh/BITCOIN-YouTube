@@ -63,7 +63,7 @@ Strategy:
 
 No one owns the Bitcoin brand. Thus everyone owns the Bitcoin brand. 
 
-We hope to invite high quality producers of Bitcoin content to contribute to the Bitcoin YouTube channel. Ideally you can log in to the channel with your own gmail account as a channel editor, and then upload and publish your content to the channel yourself! 
+We hope to invite high quality Bitcoin only developers, voices, creators & producers of Bitcoin content to contribute to the Bitcoin YouTube channel. Ideally you will be able to log in to the channel with your own gmail account as a channel editor, and then upload and publish your content to the channel yourself! Permissionless uploading nad publishing! 
 
 This serves to boost your message and spread quality information to the masses under the Bitcoin banner to a wide audience. As it is sometimes difficult for some content to get exposure, this may serve creators well if they are trying to build an audience, spread their message, or promote their own youtube channel, twitter account, or other social media platforms. You can even use the end screen to point to your own youtube channel and/or video's. The goal though is to always spread relevant quality Bitcoin signal. Please don't shill referral links, ads or pormotions. If you do this, we may have to remove your video.
 
