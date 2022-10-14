@@ -144,3 +144,10 @@ Process For Uploading Video's to BITCOIN YouTube if You Don't Have a Contributer
 If you don't wish to obtain a gmail account to login, or just want to do a one time upload of your content, please feel free to submit an Issue, using the "Issues" tab on this github page. Include a link to your content and desired parameters for upload. You can also contact the admin of the channel via twitter, email or reddit with the same details. The content will then be reuploaded to the channel by the admin, once it's been checked for the above mentioned quality standards. 
 
 Thank you for reading through this project. If you have any questions, feel free to ask!
+
+If you would like to support us with Bitcoin, consider contributing to our tallycoin fundraiser: https://tallycoin.app/@bitcoinallcaps/bitcoin-youtube-tip-page-av5s8l/
+
+If you still want to help, but can't give financially, consider joining our discord. We would love help from creatives!
+https://discord.gg/TyhPhH4Mpq
+
+Thank you agian!
