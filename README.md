@@ -114,50 +114,49 @@ Please check to make sure you are the only video upload for the day on the chann
 
 Feedback on this and other details may be provided by the channel admin.
 
-*Benefits For Contributors*
+*Benefits of Contributing as a Channel Editor*
 
 Exposure:
-Contributors are encouraged to link back to their channels through the end screen icons. they may also modify the video description to do the same. please no shilling of referral links, ads or promotions though.
+Contributors are encouraged to link back to their channels through the end screen icons. they may also modify the video description to do the same. But please no shilling of referral links, ads or promotions.
 
 Access to the Entire Library of BITCOIN Content:
 
-You can use and download any of the past video's uploaded to the channel. but please do not delete or modify any of the video's that are not yours, or you will be removed from the project.
+You can use and download any of the past video's uploaded to the channel. but please do not delete or modify any of the video's that are not yours.
+
 Audience Donations: a static lightning network QR code can be used by contributors to receive donations from the audience. ZBD.gg is a great wallet for this function. Just don't over solicit for donations. it can degrade the signal.
+
 Any general donations to the channel will be tracked using tally.coin for audit-ability and feedback: https://tallycoin.app/@bitcoinallcaps/bitcoin-youtube-tip-page-av5s8l/
 
 Funds raised will be used to cover channel expenses, and to issue grants to contributors who need to purchase hardware such as mics, cameras or video editing software. Priority for these grants will be given to developers first.
 
 Video Editing Collaboration:
 
-Bitcoin experts, developers and other contributors may also want to make an "Issues" request to have their video edited to include animations, graphics or to improve audio, video and/or pacing of the video. Other video editing contributors may then be able to help add these elements to collaboratively build high quality and engaging content. For chat collaboration among contributors this discord channel is one option: https://discord.gg/TyhPhH4Mpq
+Bitcoin experts, developers and other contributors may also want to make an "Issues" request to have their video edited to include animations, graphics or to improve audio, video and/or pacing of the video. Other video editing contributors may then be able to help add these elements to collaboratively build high quality and engaging content. The Channel admin can also help in this area. For chat collaboration among contributors our discord channel is one option: https://discord.gg/TyhPhH4Mpq
 
 Revenue Sharing:
 
-Currently the channel is not monetized via google ads, and can't be due to google's rules. There are no channel sponsors either.
-But if the channel(s) ever gets monetized then a revenue sharing agreement should be in order between the administrator of the Channel and the contributors. Ideally the contributors should receive the lion share of the revenue generated. Thus maybe a 1/99 split would be more ideal (99 for content creators/up-loaders), or instead of a percentage, the administrator would be paid a fixed rate for their time working to manage the channel and distribute payouts to contributors. this would likely be a manual process relying on YouTube monetization numbers. Payouts could be structured monthly, with yearly bonus payouts for any revenue generated past the first month of viewership for video's. this may not be relevant at all though, since there's no revenue generation from this channel currently, and maybe contributors and the community don't want this channel to be monetized.
+Currently the channel is not monetized via google ads. There are no channel sponsors either.
+But if the channel ever gets monetized then a revenue sharing agreement could be in order between the administrator of the Channel and the contributors. Ideally the contributors should receive the lion share of the revenue generated. Thus maybe a 1/99 split would be ideal (99 for content creators/up-loaders), or instead of a percentage, the administrator would be paid a fixed rate for their time working to manage the channel and distribute payments to contributors using Bitcoin. this would likely be a manual process relying on YouTube monetization numbers. Payouts could be structured monthly, with yearly bonus payouts for any revenue generated past the first month of video viewership. this may not be relevant at all though, since there's no revenue generation from this channel currently, and maybe contributors and the community do not want this channel to be monetized.
 
 *Checks and Balances*
 
 3 Strike System:
 
-Many rules govern the channel that have not been written down formally. There are edge cases that can't be covered entirely. But generally, contributors should not be dicks with their shilling or modification of channel content. Bad actors who abuse their powers will be removed. Generally you'll receive a few warnings if you test the boundaries. Feedback will also be given generally, though not always.
-Uploads would be focused on BITCOIN only, and be primarily aimed at educating people. TA, Price, and Macro bullshit is generally discouraged. These topics are usually already covered extensively on other platforms.
-
-Technical Bitcoin discussion and education is the priority.
+Many rules govern the channel that have not been written down formally. There are edge cases that can't be covered entirely. But generally, contributors should not be malicious or ignorant with their shilling or modification of channel content. Bad actors who abuse their powers will be removed. Generally you'll receive a few warnings if you test the boundaries. Feedback will also be given generally, though not always.
 
 Copyright and/or Trademark Ownership:
 
-All rights of uploaded works to the BITCOIN YouTube channel are that of the contributors. We make no claims on the copyright or trademark ownership of contributions by contributors. It's their content, they get to decide what happens to it. However, if they use another persons work or abuse their rights, the video in question may be removed.
+All rights of uploaded works to the BITCOIN YouTube channel are that of the contributors. We make no claims on the copyright or trademark ownership of contributions by contributors. It's their content, they get to decide what happens to it. However, if they use another persons work or abuse their rights, the video in question may be removed. Unintentional copyright disputes will be genreally handled by the admin.
 
-All video's uploaded by the administrator are for public use in the public domain under fair use.
+Genreally, video's uploaded by the administrator are in the public domain under fair use.
 
-Process For Uploading Video's to BITCOIN YouTube if You Don't Have a Contributor Account:
+Process For Uploading Video's to BITCOIN YouTube if You Don't Have a Contributor/Editor Gmail Account:
 
-If you don't wish to obtain a gmail account to login, or just want to do a one time upload of your content, please feel free to submit an Issue, using the "Issues" tab on this GitHub page. Include a link to your content and desired parameters for upload. You can also contact the admin of the channel via twitter, email or reddit with the same details. The content will then be re-uploaded to the channel by the admin, once it's been checked for the above mentioned quality standards.
+If you don't wish to obtain a gmail account to login to the channel yourself, or just want to do a one time upload of your content, please feel free to submit an Issue, using the "Issues" tab on this GitHub page. Include a link to your content and desired parameters for upload and it will be reuploaded by the channel admin manually. You can also contact the admin of the channel via twitter, email or reddit with the same details. The content will then be re-uploaded to the channel by the admin, once it's been checked for the above mentioned quality standards.
 
 Thank you for reading through this project. If you have any questions, feel free to ask!
 If you would like to support us with Bitcoin, consider contributing to our tally-coin fundraiser: https://tallycoin.app/@bitcoinallcaps/bitcoin-youtube-tip-page-av5s8l/
 
-If you still want to help some more, consider joining our discord. We would love help from creatives! https://discord.gg/TyhPhH4Mpq
+If you still want to help in other ways, consider joining our discord. We would love help from creatives! https://discord.gg/TyhPhH4Mpq
 
-Thank you again!
+Thank you again for reading!
