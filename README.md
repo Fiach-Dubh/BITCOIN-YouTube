@@ -63,11 +63,15 @@ Strategy:
 No one owns the Bitcoin brand. Thus everyone owns the Bitcoin brand.
 We hope to invite high quality Bitcoin only developers, voices, creators & producers of Bitcoin content to contribute to the Bitcoin YouTube channel. Ideally you will be able to log in to the channel with your own gmail account as a channel editor, and then upload and publish your content to the channel yourself! Permission-less uploading and publishing!
 
-This can serve to boost your message and spread quality information to the masses under the Bitcoin banner to a wide audience. It is sometimes difficult for some content to get exposure, this may serve to help if they are trying to build an audience, spread their message, or promote your own YouTube channel, twitter account, or other social media platforms. You can even use the end screen to point to your own YouTube channel and/or video's. The goal though is to always spread relevant quality Bitcoin signal. Please don't shill referral links, ads or promotions. If you do this, we may have to remove your video.
-If you just want to use the BITCOIN YouTube channel as a way to make short trailer like video's that link to your longer form video's, that's fine. Just don't over do it, and try to make it high signal.
+This can serve to boost your message and spread quality information to the masses under the Bitcoin banner to a wide audience. It can be difficult for some content to get exposure, this project may help if you are trying to build an audience, spread your message, or promote your own YouTube channel, twitter account, or other social media handles. You can even use the end screen to point to your own YouTube channel and/or video's. The goal though is to always spread relevant quality Bitcoin signal. 
 
-One draw back of this overall project and YouTube in general is the centralized nature of it's design. We acknowledge this is not a purely decentralized setup. there is a centralized choke points to YouTube channel management and participation. But we hope that by always aiming for that ideal we will consistently improve towards it and respect the integrity of the work contributors to Bitcoin build. We therefore invite Bitcoin community members to apply to be Channel managers/admins. This way, not all power to delete video's, to add or remove contributors is held by one person.
-Nominated Channel managers/admins will be vetted more thoroughly and be voted in by community polls on reddit, stacker.news, twitter and YouTube.
+Please don't shill referral links, ads or promotions. If you do this, we may have to remove your video.
+
+If you want to use the BITCOIN YouTube channel as a way to make short trailer like video's that link to your longer form video's, that's fine. Just don't over do it, and try to make it high signal.
+
+One draw back of this overall project and YouTube in general is the centralized nature of it's design. We acknowledge this is not a purely decentralized setup. There are centralized choke points to YouTube channel management and participation. But we hope that by aiming for that ideal we will consistently improve towards it and thereby respect the integrity of your work. 
+
+Alos, we invite Bitcoin community members to apply to be Channel managers/admins. This way, not all power to delete video's, to add or remove contributors is held by one person. Nominated Channel managers/admins will be vetted more thoroughly and be voted in by community polls on reddit, stacker.news, twitter and YouTube.
 
 Structure:
 
