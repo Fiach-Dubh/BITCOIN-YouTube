@@ -106,7 +106,7 @@ Nuance, originality, uniqueness and insight are very much appreciated.
 
 On Sponsors: 
 
-ideally there should not be any paid sponsors or Ads in these contributor video's, but this may be negotiable depending on the feedback from contributors. At maximum the sponsorship should only be a visual within the video, and should not be talked about at all by contributors. wasting peoples time shilling for your sponsor is cringe and degrades the signal.
+Ideally there should be no sponsors or Ads in these contributor video's, but this may be negotiable depending on the feedback from contributors. At maximum sponsorships should only be a visual within the video, and should not be talked about at all by contributors. wasting peoples time shilling for your sponsor degrades the signal.
 
 Upload Guidelines:
 
