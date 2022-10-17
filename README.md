@@ -73,9 +73,9 @@ One draw back of this overall project and YouTube in general is the centralized 
 
 Alos, we invite Bitcoin community members to apply to be Channel managers/admins. This way, not all power to delete video's, to add or remove contributors is held by one person. Nominated Channel managers/admins will be vetted more thoroughly and be voted in by community polls on reddit, stacker.news, twitter and YouTube.
 
-Structure:
+Invitation Timeline:
 
-We'll begin by inviting developers to contribute, prioritizing those with low YouTube channel exposure. We will then start to invite Bitcoin only educators. After this, we may begin to invite Bitcoin voices to participate. If we end up having too many contributions, we may branch off to a secondary channel to help focus the content.
+We'll begin by inviting developers, prioritizing those with a history of Bitcoin advocacy. We will then start to invite Bitcoin only educators. After this, other Bitcoin voices may be invited to participate. If we end up having too many contributions we may create a secondary channel to help focus the content.
 
 Contributor Invitation Requirements:
 
