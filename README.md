@@ -53,6 +53,7 @@ To spread high quality Bitcoin signal.
 Goals:
 
 To make this channel a hands off, merit based, equal opportunity platform for Bitcoin only content creators and educators. The PBS of Bitcoin.
+
 Who We Are:
 Bitcoin community volunteers and educators. Our main base of operation is reddit.com/r/bitcoin.
 
