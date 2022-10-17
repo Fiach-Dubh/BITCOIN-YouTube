@@ -110,7 +110,9 @@ Ideally there should be no sponsors or Ads in these contributor video's, but thi
 
 Upload Guidelines:
 
-Please check to make sure you are the only video upload for the day on the channel. We want to keep the upload rate to a maximum of once per day, otherwise the audience and YouTube algorithm will get burnt out. It would also be best to wait for another video to be uploaded by a different contributor before you upload a new video of your own. Two or more video's in a row from the same contributor can cause audience fatigue, but may be warranted if the quality is high. Feedback on this and other detail may be provided by the channel admin.
+Please check to make sure you are the only video upload for the day on the channel. We want to keep the upload rate to a maximum of once per day, otherwise the audience and YouTube algorithm will get burnt out. It would also be best to wait for another video to be uploaded by a different contributor before you upload a new video of your own. Two or more video's in a row from the same contributor can cause audience fatigue, but may be warranted if the quality is high. 
+
+Feedback on this and other details may be provided by the channel admin.
 
 *Benefits For Contributors*
 
