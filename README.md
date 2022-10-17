@@ -83,9 +83,22 @@ Ideally only strong ethically minded bitcoin only content creators are invited t
 
 Upload Requirements:
 
-Uploads would be focused on BITCOIN only, and be primarily aimed at educating people. TA, Price, and Macro bullshit is generally discouraged. These topics are usually already covered extensively on other platforms. "News" segments are also extremely over covered, but may be useful for the audience if they receive the source material of hearings and the like.
+Uploads should be focused on BITCOIN only, and be primarily aimed at educating people. TA, Price, and Macro content is generally already covered, and is often redundant, if not misleading. Try to avoid these topics unless it's recent and relevant. "News" segments are also already mostly covered, but they may be useful to the audience if they are high signal.
 
-Generally the same rules that govern reddit.com/r/bitcoin submissions apply to this YouTube channel: https://www.reddit.com/r/Bitcoin/comments/i19uta/bitcoin_newcomers_faq_please_read/
+Generally the same rules that govern reddit.com/r/bitcoin submissions apply to this YouTube: 
+
+"Do not use URL shortening services: always submit the real link.
+Begging/asking for bitcoins is absolutely not allowed, no matter how badly you need the bitcoins. Only requests for donations to large, recognized charities are allowed, and only if there is good reason to believe that the person accepting bitcoins on behalf of the charity is trustworthy.
+News articles that do not contain the word "Bitcoin" are usually off-topic. This subreddit is not about general financial news.
+Submissions that are mostly about some other cryptocurrency belong elsewhere. This subreddit is exclusive to Bitcoin.
+Promotion of client software which attempts to alter the Bitcoin protocol without overwhelming consensus is not permitted.
+No referral links in submissions.
+No compilations of free Bitcoin sites.
+Trades should usually not be advertised here. For example, submissions like "Buying 100 BTC" or "Selling my computer for bitcoins" do not belong here. /r/Bitcoin is primarily for news and discussion.
+Please avoid repetition — /r/bitcoin is a subreddit devoted to new information and discussion about Bitcoin and its ecosystem. New merchants are welcome to announce their services for Bitcoin, but after those have been announced they are no longer news and should not be re-posted. Aside from new merchant announcements, those interested in advertising to our audience should consider Reddit's self-serve advertising system.
+Do not post your Bitcoin address unless someone explicitly asks you to.
+Be aware that Twitter, etc. is full of impersonation."
+
 
 Ideally the shorter the video the better. Clips less than 10 minutes generally do better with current internet audiences and their attention span these days. Though longer format content may be appropriate if it's quality and bitcoin signal relevance is high quality. Nuance, originality, uniqueness and insight is key.
 
