@@ -100,7 +100,9 @@ Do not post your Bitcoin address unless someone explicitly asks you to.
 Be aware that Twitter, etc. is full of impersonation."
 
 
-Ideally the shorter the video the better. Clips less than 10 minutes generally do better with current internet audiences and their attention span these days. Though longer format content may be appropriate if it's quality and bitcoin signal relevance is high quality. Nuance, originality, uniqueness and insight is key.
+Ideally the shorter the video the better. Clips less than 10 minutes generally do better with current internet audiences these days. Though longer format content may be appropriate if it's quality and bitcoin signal relevance is high quality. 
+
+Nuance, originality, uniqueness and insight are very much appreciated.
 
 On Sponsors: 
 
