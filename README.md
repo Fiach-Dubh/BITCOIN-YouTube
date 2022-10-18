@@ -123,7 +123,9 @@ Access to the Entire Library of BITCOIN Content:
 
 You can use and download any of the past video's uploaded to the channel. but please do not delete or modify any of the video's that are not yours.
 
-Audience Donations: a static lightning network QR code can be used by contributors to receive donations from the audience. ZBD.gg is a great wallet for this function. Just don't over solicit for donations. it can degrade the signal.
+Audience Donations: 
+
+a static lightning network QR code can be used by contributors to receive donations from the audience. ZBD.gg is a great wallet for this function. Just don't over solicit for donations. it can degrade the signal.
 
 Any general donations to the channel will be tracked using tally.coin for audit-ability and feedback: https://tallycoin.app/@bitcoinallcaps/bitcoin-youtube-tip-page-av5s8l/
 
@@ -137,6 +139,10 @@ Revenue Sharing:
 
 Currently the channel is not monetized via google ads. There are no channel sponsors either.
 But if the channel ever gets monetized then a revenue sharing agreement could be in order between the administrator of the Channel and the contributors. Ideally the contributors should receive the lion share of the revenue generated. Thus maybe a 1/99 split would be ideal (99 for content creators/up-loaders), or instead of a percentage, the administrator would be paid a fixed rate for their time working to manage the channel and distribute payments to contributors using Bitcoin. this would likely be a manual process relying on YouTube monetization numbers. Payouts could be structured monthly, with yearly bonus payouts for any revenue generated past the first month of video viewership. this may not be relevant at all though, since there's no revenue generation from this channel currently, and maybe contributors and the community do not want this channel to be monetized.
+
+Live Streaming:
+
+You are welcome to schedule and publish livestreams of events and educational content so long as it follows the high quality standards outlined above.
 
 *Checks and Balances*
 
