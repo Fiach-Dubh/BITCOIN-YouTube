@@ -142,7 +142,7 @@ But if the channel ever gets monetized then a revenue sharing agreement could be
 
 Live Streaming:
 
-You are welcome to schedule and publish livestreams of events and educational content so long as it follows the high quality standards outlined above.
+You are welcome to schedule and publish livestreams of events and educational content so long as it follows the high quality standards outlined above. Be sure to reset the livestream key after finishing!
 
 *Checks and Balances*
 
