@@ -42,6 +42,8 @@ Achievements:
 
 Channel is Verified ✅
 
+Told Binance to Take a Hike: https://twitter.com/BITCOINALLCAPS/status/1539690159817498624
+
 All Uploaded Video's Are Automatically Re-uploaded to Rumble and Odysee
 
 So far we've been tracking the Bitcoin story and evolution through the public consciousness as seen mostly in mainstream news. Though often we promote and cover informative and educational video's that are high quality and recent Bitcoin content. The net result is a chronological video timeline spanning the recent years of Bitcoin's history, primarily from a North American perspective. Starting with Yellen's "BUY BITCOIN" sign photo bomb moment.
