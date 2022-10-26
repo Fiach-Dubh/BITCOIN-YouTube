@@ -108,7 +108,7 @@ Nuance, originality, uniqueness and insight are very much appreciated.
 
 For YouTube Shorts:
 
-Shorts are a newer video category on YouTube. For YouTube to recognize your upload as a short the video needs to be less then 1 minute in length, have the same aspect ratio as a phone (4:5 or 1:1 generally works). Also be sure to put #Shorts in the video description and/or the title of the video for YouTube to know your video is a short. 
+Shorts are a newer video category on YouTube. For YouTube to recognize your upload as a short the video needs to be less then 1 minute in length, have the same aspect ratio as a phone (9:16 works). Also be sure to put #Shorts in the video description and/or the title of the video for YouTube to know your video is a short. 
 
 On Sponsors: 
 
