@@ -120,6 +120,12 @@ Please check to make sure you are the only video upload for the day on the chann
 
 Feedback on this and other details may be provided by the channel admin.
 
+You may also want to refer to your own YouTube channel in the description of the video you upload using the @<handle> feature. This "@<youryoutubechannelhandle>" can also be included in the video title for even more exposure for your channel.
+
+Commenting Guidelines:
+
+If you decide to comment anywhere on YouTube using the BITCOIN account, please be sure to begin each message with "@<YOURCHANNELNAME> Speaking:" so people know who is speaking. If you don't have an channel name to @ with, then please just use your nym or name at the beginning of your message "<name> Speaking:"
+
 *Benefits of Contributing as a Channel Editor*
 
 Exposure:
@@ -149,6 +155,10 @@ But if the channel ever gets monetized then a revenue sharing agreement could be
 Live Streaming:
 
 You are welcome to schedule and publish livestreams of events and educational content so long as it follows the high quality standards outlined above. Be sure to reset the livestream key after finishing!
+
+Commenting Ability:
+
+You can use the BITCOIN account to comment inside livestream chats, on other video's and generally all around YouTube. Please do not abuse this feature though and be sure to include your identifying handle with commenting (instructions above).
 
 *Checks and Balances*
 
