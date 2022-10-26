@@ -106,6 +106,10 @@ Ideally the shorter the video the better. Clips less than 10 minutes generally d
 
 Nuance, originality, uniqueness and insight are very much appreciated.
 
+For YouTube Shorts:
+
+Shorts are a newer video category on YouTube. For YouTube to recognize your upload as a short the video needs to be less then 1 minute in length, have the same aspect ratio as a phone (4:5 or 1:1 generally works). Also be sure to put #Shorts in the video description and/or the title of the video for YouTube to know your video is a short. 
+
 On Sponsors: 
 
 Ideally there should be no sponsors or Ads in these contributor video's, but this may be negotiable depending on the feedback from contributors. At maximum sponsorships should only be a visual within the video, and should not be talked about at all by contributors. wasting peoples time shilling for your sponsor degrades the signal.
