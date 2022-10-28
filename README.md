@@ -87,6 +87,8 @@ Upload Requirements:
 
 Uploads should be focused on BITCOIN only, and be primarily aimed at educating people. TA, Price, and Macro content is generally already covered, and is often redundant, if not misleading. Try to avoid these topics unless it's recent and relevant. "News" segments are also already mostly covered, but they may be useful to the audience if they are high signal. 
 
+General commentary on Bitcoin news is often mid to low signal, but this often depends on the news being covered. The more toxic you are, the better, and launching into educational Bitcoin best practise from a news item as a launch point is also welcome.
+
 Video Tutorials, Bitcoin basics, explaining bitcoin technically, bitcoin privacy tools and tutorial, bitcoin history, exploring bitcoin best practises are all welcome and preferred.
 
 Generally the same rules that govern reddit.com/r/bitcoin submissions apply to this YouTube: 
