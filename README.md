@@ -22,7 +22,7 @@ BlTC0IN@pm.me
 
 Reddit Discussion Thread on This Project: https://www.reddit.com/r/Bitcoin/comments/y3t6yv/open_sourcing_the_bitcoin_youtube_channel_who/
 
-Want to join as a contributor to the Channel? make a request in "Issues"! After reviewing your content, you may be sent an invitation to your gmail account. Once you accept this invite, you will have login access to the BITCOIN YouTube Studio. Simply log in to YouTube with your gmail account, and select "switch account" from the drop down menu, and then select "BITCOIN" and you're in! You can thne upload, publish or use the account as you see fit. See below for more details.
+Want to join as a contributor to the Channel? make a request in "Issues"! After reviewing your content, you may be sent an invitation to your gmail account. Once you accept this invite, you will have login access to the BITCOIN YouTube Studio. Simply log in to YouTube with your gmail account, and select "switch account" from the drop down menu, and then select "BITCOIN" and you're in! You can then upload, publish or use the account as you see fit. See below for more details.
 
 Channel Function and Thesis:
 
