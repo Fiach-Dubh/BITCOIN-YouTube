@@ -54,7 +54,7 @@ To spread high quality Bitcoin signal.
 
 Goals:
 
-To make this channel a hands off, merit based, equal opportunity platform for Bitcoin only content creators and educators. The PBS of Bitcoin.
+To make this channel a hands off, merit based, equal opportunity platform for Bitcoin only content creators and educators to use as they see fit, on an open door policy. The PBS of Bitcoin.
 
 Who We Are:
 
@@ -85,7 +85,9 @@ Ideally only strong ethically minded bitcoin only content creators are invited t
 
 Upload Requirements:
 
-Uploads should be focused on BITCOIN only, and be primarily aimed at educating people. TA, Price, and Macro content is generally already covered, and is often redundant, if not misleading. Try to avoid these topics unless it's recent and relevant. "News" segments are also already mostly covered, but they may be useful to the audience if they are high signal.
+Uploads should be focused on BITCOIN only, and be primarily aimed at educating people. TA, Price, and Macro content is generally already covered, and is often redundant, if not misleading. Try to avoid these topics unless it's recent and relevant. "News" segments are also already mostly covered, but they may be useful to the audience if they are high signal. 
+
+Video Tutorials, Bitcoin basics, explaining bitcoin technically, bitcoin privacy tools and tutorial, bitcoin history, exploring bitcoin best practises are all welcome and preferred.
 
 Generally the same rules that govern reddit.com/r/bitcoin submissions apply to this YouTube: 
 
