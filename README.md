@@ -22,10 +22,6 @@ BlTC0IN@pm.me
 
 Reddit Discussion Thread on This Project: https://www.reddit.com/r/Bitcoin/comments/y3t6yv/open_sourcing_the_bitcoin_youtube_channel_who/
 
-Managers: NA
-
-Contributors: NA
-
 Want to join as a contributor to the Channel? make a request in "Issues"!
 
 Channel Function and Thesis:
