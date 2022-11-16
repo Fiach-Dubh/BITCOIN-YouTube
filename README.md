@@ -81,7 +81,7 @@ Ideally only strong ethically minded bitcoin only content creators are invited t
 
 Upload Requirements:
 
-Uploads should be focused on BITCOIN only, and be primarily aimed at educating people. TA, Price, and Macro content is generally already covered, and is often redundant, if not misleading. Try to avoid these topics unless it's recent and relevant. "News" segments are also already mostly covered, but they may be useful to the audience if they are high signal. 
+Uploads should be focused on BITCOIN only, and be primarily aimed at educating people. TA, Price, "Crypto", Altcoin and Macro content is generally already covered, and is often redundant, if not misleading. Avoid these topics unless it's recent relevant and Pro Bitcoin, anti Crypto. "News" segments are also already mostly covered, but they may be useful to the audience if they are high signal. Talking about altcoins or Crypto in a positive light is highly discouraged and may result is a strike on your account.
 
 General commentary on Bitcoin news is often mid to low signal, but this often depends on the news being covered. The more toxic you are, the better, and launching into educational Bitcoin best practise from a news item as a launch point is also welcome.
 
