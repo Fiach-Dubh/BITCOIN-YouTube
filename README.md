@@ -18,7 +18,7 @@ https://twitter.com/BITCOINALLCAPS
 
 https://www.reddit.com/user/Fiach_Dubh/
 
-BlTC0IN@pm.me
+holdit21@pm.me
 
 Reddit Discussion Thread on This Project: https://www.reddit.com/r/Bitcoin/comments/y3t6yv/open_sourcing_the_bitcoin_youtube_channel_who/
 
