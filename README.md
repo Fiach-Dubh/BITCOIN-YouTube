@@ -181,7 +181,9 @@ Genreally, video's uploaded by the administrator are in the public domain under 
 
 Process For Uploading Video's to BITCOIN YouTube if You Don't Have a Contributor/Editor Gmail Account:
 
-If you don't wish to obtain a gmail account to login to the channel yourself, or just want to do a one time upload of your content, please feel free to submit an Issue, using the "Issues" tab on this GitHub page. Include a link to your content and desired parameters for upload and it will be reuploaded by the channel admin manually. You can also contact the admin of the channel via twitter, email or reddit with the same details. The content will then be re-uploaded to the channel by the admin, once it's been checked for the above mentioned quality standards.
+If you don't wish to obtain a gmail account to login and upload content to the channel yourself, or just want to do a one time upload of your content, please feel free to submit an Issue, using the "Issues" tab on this GitHub page. Include a link to your content and desired parameters for upload and it will be reuploaded by the channel admin manually. You can also contact the admin of the channel via twitter, email or reddit with the same details. The content will then be re-uploaded to the channel by the admin, once it's been checked for the above mentioned quality standards.
+
+If you want your content to be manually reuploaded to the channel by the admin over a long term basis please feel free to ask. We might do this for some content creators.
 
 Thank you for reading through this project. If you have any questions, feel free to ask!
 If you would like to support us with Bitcoin, consider contributing to our tally-coin fundraiser: https://tallycoin.app/@bitcoinallcaps/bitcoin-youtube-tip-page-av5s8l/
