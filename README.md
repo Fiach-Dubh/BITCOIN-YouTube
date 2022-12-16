@@ -2,11 +2,13 @@ The First Open Source YouTube Channel
 
 www.YouTube.com/BITC0IN
 
-https://twitter.com/ytBITCOIN
+https://twitter.com/BITCOINCALLCAPS
 
 https://Odysee.com/@BITCOIN:98c
 
 http://Rumble.com/c/BITC0IN
+
+https://geyser.fund/project/BITCOIN
 
 BITCOIN YouTube Chat:
 
