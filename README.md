@@ -69,7 +69,7 @@ If you want to use the BITCOIN YouTube channel as a way to make short trailer li
 
 One draw back of this overall project and YouTube in general is the centralized nature of it's design. We acknowledge this is not a purely decentralized setup. There are centralized choke points to YouTube channel management and participation. But we hope that by aiming for that ideal we will consistently improve towards it and thereby respect the integrity of your work. 
 
-Alos, we invite Bitcoin community members to apply to be Channel managers/admins. This way, not all power to delete video's, to add or remove contributors is held by one person. Nominated Channel managers/admins will be vetted more thoroughly and be voted in by community polls on reddit, stacker.news, twitter and YouTube.
+Also, we invite Bitcoin community members to apply to be Channel managers/admins. This way, not all power to delete video's, to add or remove contributors is held by one person. Nominated Channel managers/admins will be vetted more thoroughly and be voted in by community polls on reddit, stacker.news, twitter and YouTube.
 
 Invitation Timeline:
 
@@ -83,9 +83,9 @@ Upload Requirements:
 
 Uploads should be focused on BITCOIN only, and be primarily aimed at educating people. TA, Price, "Crypto", Altcoin and Macro content is generally already covered, and is often redundant, if not misleading. Avoid these topics unless it's recent relevant and Pro Bitcoin, anti Crypto. "News" segments are also already mostly covered, but they may be useful to the audience if they are high signal. Talking about altcoins or Crypto in a positive light is highly discouraged and may result is a strike on your account.
 
-General commentary on Bitcoin news is often mid to low signal, but this often depends on the news being covered. The more toxic you are, the better, and launching into educational Bitcoin best practise from a news item as a launch point is also welcome.
+General commentary on Bitcoin news is often mid to low signal, but this often depends on the news being covered. The more toxic you are, the better, and launching into educational Bitcoin best practice from a news item as a launch point is also welcome.
 
-Video Tutorials, Bitcoin basics, explaining bitcoin technically, bitcoin privacy tools and tutorial, bitcoin history, exploring bitcoin best practises are all welcome and preferred.
+Video Tutorials, Bitcoin basics, explaining bitcoin technically, bitcoin privacy tools and tutorial, bitcoin history, exploring bitcoin best practices are all welcome and preferred.
 
 Generally the same rules that govern reddit.com/r/bitcoin submissions apply to this YouTube: 
 
