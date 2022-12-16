@@ -137,7 +137,7 @@ You can use and download any of the past video's uploaded to the channel. but pl
 
 Distribution of Content on Social Media Platforms:
   
-All video's are auto reuploaded to Rumble and odysee, and often shared on reddit, stacker.news, twitter and other social media platforms by the channel admin and other volenteers. 
+All video's are auto reuploaded to Rumble and odysee, and often shared on reddit, stacker.news, twitter and other social media platforms by the channel admin and other volunteers. 
 
 
 Audience Donations: 
