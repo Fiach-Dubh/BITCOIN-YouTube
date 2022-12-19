@@ -26,6 +26,8 @@ Reddit Discussion Thread on This Project: https://www.reddit.com/r/Bitcoin/comme
 
 Want to join as a contributor to the Channel? make a request in "Issues"! After reviewing your content, you may be sent an invitation to your gmail account or other email that is associated with your YouTube account. Once you accept this invite, you will have login access to the BITCOIN YouTube Studio. Simply log in to YouTube with your account, and select "switch account" from the drop down menu, and then select "BITCOIN" and you're in! You can then upload, publish or use the BITCOIN account as you see fit. See below for more details.
 
+2.0 If you want your content to be manually reuploaded to the BITCOIN channel by the admin over a long term basis please feel free to ask. We might do this for some content creators.
+
 Channel Function and Thesis:
 
 There's some great Bitcoin content out there, but it's all spread out in the vastness of the internet on different branded channels. Some of the better content can get lost in the noise. There's also a great deal of noise in the Bitcoin space that is unfortunately redundant or not really all that helpful. Thus, content curation for the general masses on the Bitcoin story is ideal. This is where the BITCOIN YouTube channel steps in. We sift through all the noise, find the signal and boost that signal to a general audience under the BITCOIN banner. This serves to highlight voices and messages that are high quality BITCOIN signal but often get lost in the noise.
