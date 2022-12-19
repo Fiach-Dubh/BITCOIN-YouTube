@@ -24,6 +24,8 @@ holdit21@pm.me
 
 Reddit Discussion Thread on This Project: https://www.reddit.com/r/Bitcoin/comments/y3t6yv/open_sourcing_the_bitcoin_youtube_channel_who/
 
+Are You a Content Creator, Bitcoin Developer or Educator looking for a larger audience? Then the BITCOIN YouTube Channel is for you!
+
 Want to join as a contributor to the Channel? make a request in "Issues"! After reviewing your content, you may be sent an invitation to your gmail account or other email that is associated with your YouTube account. Once you accept this invite, you will have login access to the BITCOIN YouTube Studio. Simply log in to YouTube with your account, and select "switch account" from the drop down menu, and then select "BITCOIN" and you're in! You can then upload, publish or use the BITCOIN account as you see fit. See below for more details.
 
 2.0 If you want your content to be manually reuploaded to the BITCOIN channel by the admin over a long term basis please feel free to ask. We might do this for some content creators.
