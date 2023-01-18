@@ -2,8 +2,6 @@
 
 www.YouTube.com/BITC0IN
 
-https://twitter.com/ALLCAPSBITCOIN
-
 https://Odysee.com/@BITCOIN:98c
 
 http://Rumble.com/c/BITC0IN
@@ -12,9 +10,11 @@ https://geyser.fund/project/BITCOIN
 
 BITCOIN YouTube Chat:
 
-https://discord.gg/TyhPhH4Mpq
+https://discord.gg/K5H25KZHke
 
 Admin Contact:
+
+NOSTR: npub1qhhy2w457v5z9uym3llfyk4jv9rdf37gx3lq44c45vhksx4kea4s2m4x9e
 
 https://twitter.com/ALLCAPSBITCOIN
 
