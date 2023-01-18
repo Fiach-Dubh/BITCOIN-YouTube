@@ -2,7 +2,7 @@
 
 www.YouTube.com/BITC0IN
 
-https://twitter.com/BITCOINCALLCAPS
+https://twitter.com/ALLCAPSBITCOIN
 
 https://Odysee.com/@BITCOIN:98c
 
@@ -16,7 +16,7 @@ https://discord.gg/TyhPhH4Mpq
 
 Admin Contact:
 
-https://twitter.com/BITCOINALLCAPS
+https://twitter.com/ALLCAPSBITCOIN
 
 https://www.reddit.com/user/Fiach_Dubh/
 
