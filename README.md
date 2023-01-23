@@ -36,11 +36,11 @@ There's some great Bitcoin content out there, but it's all spread out in the vas
 
 Achievements:
 
-8,000,000 Views
+8,100,000 Views
 
-67000 subscribers
+68000 subscribers
 
-750+ Videos
+780+ Videos
 
 Channel is Verified ✅
 
