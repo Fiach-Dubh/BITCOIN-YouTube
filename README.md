@@ -149,7 +149,9 @@ Audience Donations:
 A static lightning network QR code can be used by contributors to receive donations from the audience. ZBD.gg is a great wallet for this function or even stack.news, but please don't over solicit for donations. It can degrade the signal.
 
 Any general donations to the channel will be tracked using tally.coin & Geyser for audit-ability and feedback: 
+  
 [https://tallycoin.app/@bitcoinallcaps/bitcoin-youtube-tip-page-av5s8l/](https://tallycoin.app/@bitcoinallcaps/bitcoin-youtube-tip-page-av5s8l/)
+  
 [https://geyser.fund/project/bitc0in](https://geyser.fund/project/bitc0in)
 
 Funds raised will be used to cover channel expenses, and to issue grants to contributors who purchase production hardware such as mics, cameras or video editing software. Priority for these grants will be given to developers first.
@@ -187,7 +189,9 @@ If you want your content to be manually reuploaded to the channel by the admin o
 
 Thank you for reading through this project. If you have any questions, feel free to ask!
 If you would like to support us with Bitcoin, consider contributing to our tally-coin fundraiser or Geyser: 
+  
 [https://tallycoin.app/@bitcoinallcaps/bitcoin-youtube-tip-page-av5s8l/](https://tallycoin.app/@bitcoinallcaps/bitcoin-youtube-tip-page-av5s8l/)
+  
 [https://geyser.fund/project/bitc0in](https://geyser.fund/project/bitc0in)
 
 If you still want to help in other ways, consider joining our discord. We would love help from creatives! [https://discord.gg/K5H25KZHke](https://discord.gg/K5H25KZHke)
