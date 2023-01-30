@@ -1,4 +1,4 @@
-2.0 The First Open Source YouTube Channel
+3.0 The First Open Source YouTube Channel
 
 www.YouTube.com/BITC0IN
 
@@ -6,11 +6,11 @@ https://Odysee.com/@BITCOIN:98c
 
 http://Rumble.com/c/BITC0IN
 
-https://geyser.fund/project/BITCOIN
+https://geyser.fund/project/bitc0in
 
-BITCOIN YouTube Chat:
+BITCOIN YouTube Tech Support Chat:
 
-https://discord.gg/K5H25KZHke
+https://discord.gg/bitcoin-discord-782749290219962370
 
 Admin Contact:
 
@@ -26,9 +26,9 @@ Reddit Discussion Thread on This Project: https://www.reddit.com/r/Bitcoin/comme
 
 Are You a Content Creator, Bitcoin Developer or Educator looking for a larger audience? Then the BITCOIN YouTube Channel is for you!
 
-Want to join as a contributor to the Channel? make a request in "Issues"! After reviewing your content, you may be sent an invitation to your gmail account or other email that is associated with your YouTube account. Once you accept this invite, you will have login access to the BITCOIN YouTube Studio. Simply log in to YouTube with your account, and select "switch account" from the drop down menu, and then select "BITCOIN" and you're in! You can then upload, publish or use the BITCOIN account as you see fit. See below for more details.
+Want to join as a contributor to the Channel? make a request in "Issues"! After reviewing your content, you may be sent an invitation to your gmail account or other email that is associated with your YouTube account. Once you accept this invite, you will have login access to the BITCOIN YouTube Studio. Simply log in to your YouTube account, and select "switch account" from the drop down menu, and then select "BITCOIN" and you're in! You can then upload, publish or use the BITCOIN account as you see fit. See below for more details.
 
-2.0 If you want your content to be manually reuploaded to the BITCOIN channel by the admin over a long term basis please feel free to ask. We might do this for some content creators.
+3.0 If you want your content to be manually reuploaded to the BITCOIN channel by the admin over a long term basis please feel free to ask. We might do this for some content creators. We also may reach out and invite you to join us with either your own login to the channel, or with a handshake agreement to have your content reuploaded manually to the channel by the admin over a long/short term or one time basis. 
 
 Channel Function and Thesis:
 
@@ -36,13 +36,15 @@ There's some great Bitcoin content out there, but it's all spread out in the vas
 
 Achievements:
 
-8,100,000 Views
+8,100,000 YouTube Channel Views
 
-68000 subscribers
+68000 YouTube Channel subscribers
 
-780+ Videos
+780+ Videos Uploaded
 
-Channel is Verified ✅
+YouTube Channel is Verified ✅
+
+Over 10700 Members in our Bitcoin Tech Support Chat: https://discord.gg/K5H25KZHke
 
 Told Binance to Take a Hike: https://twitter.com/BITCOINALLCAPS/status/1539690159817498624
 
@@ -60,7 +62,7 @@ To make this channel a hands off, merit based, equal opportunity platform for Bi
 
 Who We Are:
 
-Bitcoin community volunteers and educators. Our main base of operation is reddit.com/r/bitcoin.
+Bitcoin community volunteers and educators.
 
 Strategy:
 
@@ -128,10 +130,6 @@ Feedback on this and other details may be provided by the channel admin.
 
 You may also want to refer to your own YouTube channel in the description of the video you upload using the @<handle> feature. This "@<youryoutubechannelhandle>" can also be included in the video title for even more exposure for your channel.
 
-Commenting Guidelines:
-
-If you decide to comment anywhere on YouTube using the BITCOIN account, please be sure to begin each message with "@<YOURCHANNELNAME> Speaking:" so people know who is speaking. If you don't have an channel name to @ with, then please just use your nym or name at the beginning of your message "<name> Speaking:"
-
 *Benefits of Contributing as a Channel Editor*
 
 Exposure:
@@ -148,15 +146,17 @@ All video's are auto reuploaded to Rumble and odysee, and often shared on reddit
 
 Audience Donations: 
 
-a static lightning network QR code can be used by contributors to receive donations from the audience. ZBD.gg is a great wallet for this function. Just don't over solicit for donations. it can degrade the signal.
+A static lightning network QR code can be used by contributors to receive donations from the audience. ZBD.gg is a great wallet for this function or even stack.news, but please don't over solicit for donations. It can degrade the signal.
 
-Any general donations to the channel will be tracked using tally.coin for audit-ability and feedback: https://tallycoin.app/@bitcoinallcaps/bitcoin-youtube-tip-page-av5s8l/
+Any general donations to the channel will be tracked using tally.coin & Geyser for audit-ability and feedback: 
+https://tallycoin.app/@bitcoinallcaps/bitcoin-youtube-tip-page-av5s8l/
+https://geyser.fund/project/bitc0in
 
-Funds raised will be used to cover channel expenses, and to issue grants to contributors who need to purchase hardware such as mics, cameras or video editing software. Priority for these grants will be given to developers first.
+Funds raised will be used to cover channel expenses, and to issue grants to contributors who purchase production hardware such as mics, cameras or video editing software. Priority for these grants will be given to developers first.
 
 Video Editing Collaboration:
 
-Bitcoin experts, developers and other contributors may also want to make an "Issues" request to have their video edited to include animations, graphics or to improve audio, video and/or pacing of the video. Other video editing contributors may then be able to help add these elements to collaboratively build high quality and engaging content. The Channel admin can also help in this area. For chat collaboration among contributors our discord channel is one option: https://discord.gg/TyhPhH4Mpq
+Bitcoin experts, developers and other contributors may also want to make an "Issues" request to have their video edited to include animations, graphics or to improve audio, video and/or pacing of the video. Other video editing contributors may then be able to help add these elements to collaboratively build high quality and engaging content. The Channel admin can also help in this area. For chat collaboration among contributors our discord channel is one option: https://discord.gg/bitcoin-discord-782749290219962370
 
 Revenue Sharing:
 
@@ -166,10 +166,6 @@ But if the channel ever gets monetized then a revenue sharing agreement could be
 Live Streaming:
 
 You are welcome to schedule and publish livestreams of events and educational content so long as it follows the high quality standards outlined above. Be sure to reset the livestream key after finishing!
-
-Commenting Ability:
-
-You can use the BITCOIN account to comment inside livestream chats, on other video's and generally all around YouTube. Please do not abuse this feature though and be sure to include your identifying handle with commenting (instructions above).
 
 *Checks and Balances*
 
@@ -190,8 +186,10 @@ If you don't wish to obtain a gmail account to login and upload content to the c
 If you want your content to be manually reuploaded to the channel by the admin over a long term basis please feel free to ask. We might do this for some content creators.
 
 Thank you for reading through this project. If you have any questions, feel free to ask!
-If you would like to support us with Bitcoin, consider contributing to our tally-coin fundraiser: https://tallycoin.app/@bitcoinallcaps/bitcoin-youtube-tip-page-av5s8l/
+If you would like to support us with Bitcoin, consider contributing to our tally-coin fundraiser or Geyser: 
+https://tallycoin.app/@bitcoinallcaps/bitcoin-youtube-tip-page-av5s8l/
+https://geyser.fund/project/bitc0in
 
-If you still want to help in other ways, consider joining our discord. We would love help from creatives! https://discord.gg/TyhPhH4Mpq
+If you still want to help in other ways, consider joining our discord. We would love help from creatives! https://discord.gg/bitcoin-discord-782749290219962370
 
 Thank you again for reading!
