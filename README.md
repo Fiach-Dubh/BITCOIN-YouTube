@@ -2,27 +2,27 @@
 
 www.YouTube.com/BITC0IN
 
-https://Odysee.com/@BITCOIN:98c
+[https://Odysee.com/@BITCOIN:98c](https://Odysee.com/@BITCOIN:98c)
 
 http://Rumble.com/c/BITC0IN
 
-https://geyser.fund/project/bitc0in
+[https://geyser.fund/project/bitc0in](https://geyser.fund/project/bitc0in)
 
 BITCOIN YouTube Tech Support Chat:
 
-https://discord.gg/bitcoin-discord-782749290219962370
+[https://discord.gg/K5H25KZHke](https://discord.gg/K5H25KZHke)
 
 Admin Contact:
 
 NOSTR: npub1qhhy2w457v5z9uym3llfyk4jv9rdf37gx3lq44c45vhksx4kea4s2m4x9e
 
-https://twitter.com/ALLCAPSBITCOIN
+[https://twitter.com/ALLCAPSBITCOIN](https://twitter.com/ALLCAPSBITCOIN)
 
-https://www.reddit.com/user/Fiach_Dubh/
+[https://www.reddit.com/user/Fiach_Dubh/](https://www.reddit.com/user/Fiach_Dubh/)
 
 holdit21@pm.me
 
-Reddit Discussion Thread on This Project: https://www.reddit.com/r/Bitcoin/comments/y3t6yv/open_sourcing_the_bitcoin_youtube_channel_who/
+Reddit Discussion Thread on This Project: [https://www.reddit.com/r/Bitcoin/comments/y3t6yv/open_sourcing_the_bitcoin_youtube_channel_who/](https://www.reddit.com/r/Bitcoin/comments/y3t6yv/open_sourcing_the_bitcoin_youtube_channel_who/)
 
 Are You a Content Creator, Bitcoin Developer or Educator looking for a larger audience? Then the BITCOIN YouTube Channel is for you!
 
@@ -44,9 +44,9 @@ Achievements:
 
 YouTube Channel is Verified ✅
 
-Over 10700 Members in our Bitcoin Tech Support Chat: https://discord.gg/K5H25KZHke
+Over 10700 Members in our Bitcoin Tech Support Chat: [https://discord.gg/K5H25KZHke](https://discord.gg/K5H25KZHke)
 
-Told Binance to Take a Hike: https://twitter.com/BITCOINALLCAPS/status/1539690159817498624
+Told Binance to Take a Hike: [https://twitter.com/BITCOINALLCAPS/status/1539690159817498624](https://twitter.com/BITCOINALLCAPS/status/1539690159817498624)
 
 All Uploaded Video's Are Automatically Re-uploaded to Rumble and Odysee
 
@@ -149,14 +149,14 @@ Audience Donations:
 A static lightning network QR code can be used by contributors to receive donations from the audience. ZBD.gg is a great wallet for this function or even stack.news, but please don't over solicit for donations. It can degrade the signal.
 
 Any general donations to the channel will be tracked using tally.coin & Geyser for audit-ability and feedback: 
-https://tallycoin.app/@bitcoinallcaps/bitcoin-youtube-tip-page-av5s8l/
-https://geyser.fund/project/bitc0in
+[https://tallycoin.app/@bitcoinallcaps/bitcoin-youtube-tip-page-av5s8l/](https://tallycoin.app/@bitcoinallcaps/bitcoin-youtube-tip-page-av5s8l/)
+[https://geyser.fund/project/bitc0in](https://geyser.fund/project/bitc0in)
 
 Funds raised will be used to cover channel expenses, and to issue grants to contributors who purchase production hardware such as mics, cameras or video editing software. Priority for these grants will be given to developers first.
 
 Video Editing Collaboration:
 
-Bitcoin experts, developers and other contributors may also want to make an "Issues" request to have their video edited to include animations, graphics or to improve audio, video and/or pacing of the video. Other video editing contributors may then be able to help add these elements to collaboratively build high quality and engaging content. The Channel admin can also help in this area. For chat collaboration among contributors our discord channel is one option: https://discord.gg/bitcoin-discord-782749290219962370
+Bitcoin experts, developers and other contributors may also want to make an "Issues" request to have their video edited to include animations, graphics or to improve audio, video and/or pacing of the video. Other video editing contributors may then be able to help add these elements to collaboratively build high quality and engaging content. The Channel admin can also help in this area. For chat collaboration among contributors our discord channel is one option: [https://discord.gg/K5H25KZHke](https://discord.gg/K5H25KZHke)
 
 Revenue Sharing:
 
@@ -187,9 +187,9 @@ If you want your content to be manually reuploaded to the channel by the admin o
 
 Thank you for reading through this project. If you have any questions, feel free to ask!
 If you would like to support us with Bitcoin, consider contributing to our tally-coin fundraiser or Geyser: 
-https://tallycoin.app/@bitcoinallcaps/bitcoin-youtube-tip-page-av5s8l/
-https://geyser.fund/project/bitc0in
+[https://tallycoin.app/@bitcoinallcaps/bitcoin-youtube-tip-page-av5s8l/](https://tallycoin.app/@bitcoinallcaps/bitcoin-youtube-tip-page-av5s8l/)
+[https://geyser.fund/project/bitc0in](https://geyser.fund/project/bitc0in)
 
-If you still want to help in other ways, consider joining our discord. We would love help from creatives! https://discord.gg/bitcoin-discord-782749290219962370
+If you still want to help in other ways, consider joining our discord. We would love help from creatives! [https://discord.gg/K5H25KZHke](https://discord.gg/K5H25KZHke)
 
 Thank you again for reading!
