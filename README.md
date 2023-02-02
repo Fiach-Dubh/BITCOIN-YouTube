@@ -160,10 +160,9 @@ Video Editing Collaboration:
 
 Bitcoin experts, developers and other contributors may also want to make an "Issues" request to have their video edited to include animations, graphics or to improve audio, video and/or pacing of the video. Other video editing contributors may then be able to help add these elements to collaboratively build high quality and engaging content. The Channel admin can also help in this area. For chat collaboration among contributors our discord channel is one option: [https://discord.gg/K5H25KZHke](https://discord.gg/K5H25KZHke)
 
-Revenue Sharing:
+Ads and Sponsors:
 
-Currently the channel is not monetized via google ads. There are no channel sponsors either.
-But if the channel ever gets monetized then a revenue sharing agreement could be in order between the administrator of the Channel and the contributors. Ideally the contributors should receive the lion share of the revenue generated. Thus maybe a 1/99 split would be ideal (99 for content creators/up-loaders), or instead of a percentage, the administrator would be paid a fixed rate for their time working to manage the channel and distribute payments to contributors using Bitcoin. this would likely be a manual process relying on YouTube monetization numbers. Payouts could be structured monthly, with yearly bonus payouts for any revenue generated past the first month of video viewership. this may not be relevant at all though, since there's no revenue generation from this channel currently, and maybe contributors and the community do not want this channel to be monetized.
+Currently the channel is NOT monetized via google ads. There are no channel sponsors either.
 
 Live Streaming:
 
