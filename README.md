@@ -14,7 +14,7 @@ BITCOIN YouTube Tech Support Chat:
 
 Admin Contact:
 
-NOSTR: npub1qhhy2w457v5z9uym3llfyk4jv9rdf37gx3lq44c45vhksx4kea4s2m4x9e
+NOSTR: npub1wfvjajv0336mpxhdk6xvlafp20p8mch5083wyjd6xxnerlaxf5kqhsvx9a
 
 [https://twitter.com/ALLCAPSBITCOIN](https://twitter.com/ALLCAPSBITCOIN)
 
