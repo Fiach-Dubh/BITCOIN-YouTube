@@ -16,8 +16,6 @@ Admin Contact:
 
 NOSTR: npub1wfvjajv0336mpxhdk6xvlafp20p8mch5083wyjd6xxnerlaxf5kqhsvx9a
 
-[https://twitter.com/ALLCAPSBITCOIN](https://twitter.com/ALLCAPSBITCOIN)
-
 [https://www.reddit.com/user/Fiach_Dubh/](https://www.reddit.com/user/Fiach_Dubh/)
 
 holdit21@pm.me
