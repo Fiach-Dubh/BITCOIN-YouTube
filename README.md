@@ -18,7 +18,7 @@ NOSTR: npub1wfvjajv0336mpxhdk6xvlafp20p8mch5083wyjd6xxnerlaxf5kqhsvx9a
 
 [https://www.reddit.com/user/Fiach_Dubh/](https://www.reddit.com/user/Fiach_Dubh/)
 
-holdit21@pm.me
+holdit21@protonmail.com
 
 Reddit Discussion Thread on This Project: [https://www.reddit.com/r/Bitcoin/comments/y3t6yv/open_sourcing_the_bitcoin_youtube_channel_who/](https://www.reddit.com/r/Bitcoin/comments/y3t6yv/open_sourcing_the_bitcoin_youtube_channel_who/)
 
