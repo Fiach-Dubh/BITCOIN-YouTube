@@ -1,4 +1,4 @@
-3.0 The First Open Source YouTube Channel
+3.1 The First Open Source YouTube Channel
 
 www.YouTube.com/BITC0IN
 
@@ -171,6 +171,10 @@ You are welcome to schedule and publish livestreams of events and educational co
 3 Strike System:
 
 Many rules govern the channel that have not been written down formally. There are edge cases that can't be covered entirely. But generally, contributors should not be malicious or ignorant with their shilling or modification of channel content. Bad actors who abuse their powers will be removed. Generally you'll receive a few warnings if you test the boundaries. Feedback will also be given generally, though not always.
+
+Deletion and Removal Policy:
+
+If you own or are the origional creator of the nay uploaded content on BITCOIN YouTube and you wish for it to be removed will gladly oblige your request to remove the video and/or delete it permenantly from our YouTube studio. Your content, your rules.
 
 Copyright and/or Trademark Ownership:
 
