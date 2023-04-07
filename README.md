@@ -20,7 +20,8 @@ NOSTR: npub1wfvjajv0336mpxhdk6xvlafp20p8mch5083wyjd6xxnerlaxf5kqhsvx9a
 
 holdit21@protonmail.com
 
-Reddit Discussion Thread on This Project: [https://www.reddit.com/r/Bitcoin/comments/y3t6yv/open_sourcing_the_bitcoin_youtube_channel_who/](https://www.reddit.com/r/Bitcoin/comments/y3t6yv/open_sourcing_the_bitcoin_youtube_channel_who/)
+Reddit Discussion Threads on This Project: [https://www.reddit.com/r/Bitcoin/comments/y3t6yv/open_sourcing_the_bitcoin_youtube_channel_who/](https://www.reddit.com/r/Bitcoin/comments/y3t6yv/open_sourcing_the_bitcoin_youtube_channel_who/)
+[https://www.reddit.com/r/Bitcoin/comments/128lwds/the_bitcoin_youtube_is_a_bitcoinonly_open_source/](https://www.reddit.com/r/Bitcoin/comments/128lwds/the_bitcoin_youtube_is_a_bitcoinonly_open_source/)
 
 Are You a Content Creator, Bitcoin Developer or Educator looking for a larger audience? Then the BITCOIN YouTube Channel is for you!
 
