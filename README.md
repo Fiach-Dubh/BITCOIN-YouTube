@@ -2,6 +2,8 @@
 
 www.YouTube.com/BITC0IN
 
+Channel Ad: https://youtu.be/eEv6TOm0KZQ
+
 [https://Odysee.com/@BITCOIN:98c](https://Odysee.com/@BITCOIN:98c)
 
 http://Rumble.com/c/BITC0IN
