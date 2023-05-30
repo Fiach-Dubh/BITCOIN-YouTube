@@ -29,7 +29,13 @@ Are You a Content Creator, Bitcoin Developer or Educator looking to amplify your
 
 Then the BITCOIN YouTube Channel is for you!
 
-Want to join as a contributor to the Channel? make a request in "Issues"! After reviewing your content, you may be sent an invitation to your gmail account or other email that is associated with your YouTube account. Once you accept this invite, you will have login access to the BITCOIN YouTube Studio. Simply log in to your YouTube account, and select "switch account" from the drop down menu, and then select "BITCOIN" and you're in! You can then upload, publish or use the BITCOIN account as you see fit. See below for more details.
+Want to join as a contributor to the Channel? 
+
+Make a request in "Issues" and try to answer these questions https://github.com/Fiach-Dubh/BITCOIN-YouTube/issues/5#issuecomment-1567673348 
+
+Don't have a Github account? Then send your application by email to: holdit21@protonmail.com
+
+After reviewing your application and content, you may be sent an invitation to your gmail account or other email that is associated with your YouTube account. Once you accept this invite, you will have login access to the BITCOIN YouTube Studio. Simply log in to your YouTube account, and select "switch account" from the drop down menu, and then select "BITCOIN" and you're in! You can then upload, publish or use the BITCOIN account as you see fit. See below for more details.
 
 3.0 If you want your content to be manually reuploaded to the BITCOIN channel by the admin over a long term basis please feel free to ask. We might do this for some content creators. We also may reach out and invite you to join us with either your own login to the channel, or with a handshake agreement to have your content reuploaded manually to the channel by the admin over a long/short term or one time basis. 
 
