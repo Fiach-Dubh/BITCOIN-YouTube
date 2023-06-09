@@ -1,4 +1,4 @@
-3.2 The First Open Source YouTube Channel
+3.3 The First Open Source YouTube Channel
 
 www.YouTube.com/BITC0IN
 
@@ -31,7 +31,7 @@ Then the BITCOIN YouTube Channel is for you!
 
 Want to join as a contributor to the Channel? 
 
-Make a request in "Issues" and try to answer these questions https://github.com/Fiach-Dubh/BITCOIN-YouTube/issues/5#issuecomment-1567673348 
+Make a request in "Issues" and try to answer these questions [https://github.com/Fiach-Dubh/BITCOIN-YouTube/issues/5#issuecomment-1567673348](https://github.com/Fiach-Dubh/BITCOIN-YouTube/blob/main/Application%20Questions) 
 
 Don't have a Github account? Then send your application by email to: holdit21@protonmail.com
 
