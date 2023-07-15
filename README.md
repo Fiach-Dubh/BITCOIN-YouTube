@@ -12,7 +12,7 @@ http://Rumble.com/c/BITC0IN
 
 BITCOIN YouTube Tech Support Chat:
 
-[https://discord.gg/K5H25KZHke](https://discord.gg/K5H25KZHke) or [bitcointech.help](bitcointech.help)
+[https://discord.gg/K5H25KZHke](https://discord.gg/K5H25KZHke) or [bitcointech.help](http://bitcointech.help)
 
 Admin Contact:
 
