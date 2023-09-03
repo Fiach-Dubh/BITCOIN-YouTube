@@ -171,7 +171,9 @@ Bitcoin experts, developers and other contributors may also want to make an "Iss
 
 Ads and Sponsors:
 
-Currently the channel is NOT monetized via google ads. There are no channel sponsors either.
+Currently the channel is monetized via google ads. But there are no channel sponsors. Content contributers may choose to monetize their content on the channel via google ads by selecting their video in the YouTube studio, clicking the "on" button in the respective moneitization column, clicking "next", review the monetization questionaire (usually you can scroll to the bottom as select "none of the above"), Then click the "submit button" and the video will now run ads and earn ad revenue.
+
+At the end of each month, all video revenue will be tallyed by the Channel administrator and distributed via the lightning network in equal part to the origional content creator of the respective video, minus Channel fees, taxes and expenses. A revenue share report and confirmation of said amounts can be requested by content creators too.
 
 Live Streaming:
 
