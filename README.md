@@ -1,6 +1,18 @@
-3.3 The First Open Source YouTube Channel
+3.4 The First Open Source YouTube Channel
 
 www.YouTube.com/BITC0IN
+
+Are You a Content Creator, Bitcoin Developer or Educator looking to amplify your voice? Are you looking for a larger audience? Would you like to contribute to an open source Bitcoin-only content project? 
+
+Then the BITCOIN YouTube Channel is for you!
+
+Want to join as a content contributor to the Channel? 
+
+Make a request in "Issues" and try to answer these questions https://github.com/Fiach-Dubh/BITCOIN-YouTube/blob/main/Application%20Questions
+
+Don't have a Github account? Then send your application by email to: holdit21@protonmail.com
+
+After reviewing your application and content samples, you may be sent an invitation to your gmail account or other email that is associated with your YouTube account. Once you accept this invite, you will have login access to the BITCOIN YouTube Studio. Simply log in to your YouTube account, and select "switch account" from the drop down menu, and then select "BITCOIN" and you're in! You can then upload, publish or use the BITCOIN YouTube account as you see fit. See below for more details.
 
 Channel Ad: https://youtu.be/eEv6TOm0KZQ
 
@@ -22,18 +34,6 @@ holdit21@protonmail.com
 
 Reddit Discussion Threads on This Project: [https://www.reddit.com/r/Bitcoin/comments/y3t6yv/open_sourcing_the_bitcoin_youtube_channel_who/](https://www.reddit.com/r/Bitcoin/comments/y3t6yv/open_sourcing_the_bitcoin_youtube_channel_who/)
 [https://www.reddit.com/r/Bitcoin/comments/128lwds/the_bitcoin_youtube_is_a_bitcoinonly_open_source/](https://www.reddit.com/r/Bitcoin/comments/128lwds/the_bitcoin_youtube_is_a_bitcoinonly_open_source/)
-
-Are You a Content Creator, Bitcoin Developer or Educator looking to amplify your voice? Are you looking for a larger audience? Would you like to contribute to an open source Bitcoin-only content project? 
-
-Then the BITCOIN YouTube Channel is for you!
-
-Want to join as a contributor to the Channel? 
-
-Make a request in "Issues" and try to answer these questions https://github.com/Fiach-Dubh/BITCOIN-YouTube/blob/main/Application%20Questions
-
-Don't have a Github account? Then send your application by email to: holdit21@protonmail.com
-
-After reviewing your application and content, you may be sent an invitation to your gmail account or other email that is associated with your YouTube account. Once you accept this invite, you will have login access to the BITCOIN YouTube Studio. Simply log in to your YouTube account, and select "switch account" from the drop down menu, and then select "BITCOIN" and you're in! You can then upload, publish or use the BITCOIN account as you see fit. See below for more details.
 
 3.0 If you want your content to be manually reuploaded to the BITCOIN channel by the admin over a long term basis please feel free to ask. We might do this for some content creators. We also may reach out and invite you to join us with either your own login to the channel, or with a handshake agreement to have your content reuploaded manually to the channel by the admin over a long/short term or one time basis. 
 
