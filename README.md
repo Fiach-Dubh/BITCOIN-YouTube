@@ -6,6 +6,8 @@ Are You a Content Creator, Bitcoin Developer or Educator looking to amplify your
 
 Then the BITCOIN YouTube Channel is for you!
 
+Basically, you answer some questions, we review your content samples, then give you login access to the channel with your own YouTube/Gmail account. You can then upload and use the BITCOIN channel as your see fit.
+
 Want to join as a content contributor to the Channel? 
 
 Make a request in "Issues" and try to answer these questions https://github.com/Fiach-Dubh/BITCOIN-YouTube/blob/main/Application%20Questions
