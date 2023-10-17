@@ -8,8 +8,6 @@ Channel Ad: https://youtu.be/eEv6TOm0KZQ
 
 http://Rumble.com/c/BITC0IN
 
-[https://geyser.fund/project/bitc0in](https://geyser.fund/project/bitc0in)
-
 BITCOIN YouTube Tech Support Chat:
 
 [https://discord.gg/K5H25KZHke](https://discord.gg/K5H25KZHke) or [bitcointech.help](http://bitcointech.help)
