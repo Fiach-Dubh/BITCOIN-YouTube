@@ -96,13 +96,13 @@ Ideally only strong ethically minded bitcoin only content creators are invited t
 
 Upload Requirements:
 
-Uploads should be focused on BITCOIN only, and be primarily aimed at educating people. TA, Price, "Crypto", Altcoin and Macro content is generally already covered, and is often redundant, if not misleading. Avoid these topics unless it's recent relevant and Pro Bitcoin, anti Crypto. "News" segments are also already mostly covered, but they may be useful to the audience if they are high signal. Talking about altcoins or Crypto in a positive light is highly discouraged and may result is a strike on your account.
+Uploads should be focused on BITCOIN only, and be primarily aimed at educating people. TA, Price, "Crypto", Altcoin discussions are extremely frowned upon. Avoid these topics unless it's recent relevant and Pro Bitcoin, anti Crypto. "News" segments are also already mostly covered, but they may be useful to the audience if they are high signal. Talking about altcoins or Crypto in a positive light is highly discouraged and may result in removal of your content.
 
-General commentary on Bitcoin news is often mid to low signal, but this often depends on the news being covered. The more toxic you are, the better, and launching into educational Bitcoin best practice from a news item as a launch point is also welcome.
+General commentary on Bitcoin news is encouraged. The more toxic you are, the better, and launching into educational Bitcoin best practice from a news item as a launch point is also welcome.
 
-Video Tutorials, Bitcoin basics, explaining bitcoin technically, bitcoin privacy tools and tutorial, bitcoin history, exploring bitcoin best practices are all welcome and preferred.
+Video Tutorials, Bitcoin basics, explaining bitcoin technically, bitcoin privacy tools and tutorials, bitcoin history, exploring bitcoin best practices are all welcome and preferred.
 
-Generally the same rules that govern reddit.com/r/bitcoin submissions apply to this YouTube: 
+Generally the same rules that govern reddit.com/r/bitcoin submissions apply to this Project: 
 
 "Do not use URL shortening services: always submit the real link.
 Begging/asking for bitcoins is absolutely not allowed, no matter how badly you need the bitcoins. Only requests for donations to large, recognized charities are allowed, and only if there is good reason to believe that the person accepting bitcoins on behalf of the charity is trustworthy.
@@ -127,7 +127,7 @@ Shorts are a newer video category on YouTube. For YouTube to recognize your uplo
 
 On Sponsors: 
 
-Ideally there should be no sponsors or Ads in these contributor video's, but this may be negotiable depending on the feedback from contributors. At maximum sponsorships should only be a visual within the video, and should not be talked about at all by contributors. wasting peoples time shilling for your sponsor degrades the signal.
+Ideally the fewer the sponsors or Ads in these contributor video's the better, but this may be fine within reason.
 
 Upload Guidelines:
 
@@ -135,7 +135,7 @@ Please check to make sure you are the only video upload for the day on the chann
 
 Feedback on this and other details may be provided by the channel admin.
 
-You may also want to refer to your own YouTube channel in the description of the video you upload using the @<handle> feature. This "@<youryoutubechannelhandle>" can also be included in the video title for even more exposure for your channel.
+You may also want to refer to your own YouTube channel in the description of the video you upload using the @<handle> feature. This "@<youryoutubechannelhandle>" can also be included in the video title for even more exposure for your personal channel.
 
 *Benefits of Contributing as a Channel Editor*
 
@@ -153,7 +153,7 @@ All video's are auto reuploaded to Rumble and odysee, and often shared on reddit
 
 Audience Donations: 
 
-A static lightning network QR code can be used by contributors to receive donations from the audience. ZBD.gg is a great wallet for this function or even stack.news, but please don't over solicit for donations. It can degrade the signal.
+A static lightning network QR code can be used by contributors to receive donations from the audience. ZBD.gg is a great wallet for this function or even stacker.news, but please don't over solicit for donations. It can degrade the signal.
 
 Any general donations to the channel will be tracked using tally.coin & Geyser for audit-ability and feedback: 
   
@@ -167,11 +167,11 @@ Video Editing Collaboration:
 
 Bitcoin experts, developers and other contributors may also want to make an "Issues" request to have their video edited to include animations, graphics or to improve audio, video and/or pacing of the video. Other video editing contributors may then be able to help add these elements to collaboratively build high quality and engaging content. The Channel admin can also help in this area. For chat collaboration among contributors our discord channel is one option: [https://discord.gg/K5H25KZHke](https://discord.gg/K5H25KZHke)
 
-Ads and Sponsors:
+YouTube Monetization, Ads and Sponsors:
 
-Currently the channel is monetized via google ads. But there are no channel sponsors. Content contributers may choose to monetize their content on the channel via google ads by selecting their video in the YouTube studio, clicking the "on" button in the respective moneitization column, clicking "next", review the monetization questionaire (usually you can scroll to the bottom as select "none of the above"), Then click the "submit button" and the video will now run ads and earn ad revenue.
+Currently the channel is monetized via google ads. But there are no channel sponsors. Content contributers may choose to monetize their content on the channel via google ads by selecting their video in the YouTube studio, clicking the "on" button in the respective moneitization column, clicking "next", review the monetization questionaire (usually you can scroll to the bottom as select "none of the above"), Then click the "submit button" and the video will now run ads and earn ad revenue. By monetizing your video with YouTube ads, you get a boost from the algorithim, resulting in wider viewership. You also may earn some sats for doing so!
 
-At the end of each month, all video revenue will be tallyed by the Channel administrator and distributed via the lightning network in equal part to the origional content creator of the respective video, minus Channel fees, taxes and expenses. A revenue share report and confirmation of said amounts can be requested by content creators too.
+At the end of each month, all video revenue will be tallyed by the Channel administrator and distributed via the lightning network in equal part to the origional content creator of the respective video, minus Channel fees, taxes and expenses. A revenue share report and confirmation of said amounts can be requested by content creators.
 
 Live Streaming:
 
@@ -181,15 +181,15 @@ You are welcome to schedule and publish livestreams of events and educational co
 
 3 Strike System:
 
-Many rules govern the channel that have not been written down formally. There are edge cases that can't be covered entirely. But generally, contributors should not be malicious or ignorant with their shilling or modification of channel content. Bad actors who abuse their powers will be removed. Generally you'll receive a few warnings if you test the boundaries. Feedback will also be given generally, though not always.
+Generally, contributors should not be malicious or ignorant with their shilling or modification of channel content. Bad actors who abuse their powers will be removed. Generally you'll receive a few warnings if you test the boundaries. Feedback will also be given generally, though not always.
 
 Deletion and Removal Policy:
 
-If you own or are the origional creator of the nay uploaded content on BITCOIN YouTube and you wish for it to be removed will gladly oblige your request to remove the video and/or delete it permenantly from our YouTube studio. Your content, your rules.
+If you own or are the origional creator of any uploaded content on BITCOIN YouTube and you wish for it to be removed, we will gladly oblige your request to remove the video and/or delete it permenantly from our YouTube studio. Your content, your rules.
 
 Copyright and/or Trademark Ownership:
 
-All rights of uploaded works to the BITCOIN YouTube channel are that of the contributors. We make no claims on the copyright or trademark ownership of contributions by contributors. It's their content, they get to decide what happens to it. However, if they use another persons work or abuse their rights, the video in question may be removed. Unintentional copyright disputes will be genreally handled by the admin.
+All rights of uploaded works to the BITCOIN YouTube channel are that of the contributors. We make no claims of ownership on the copyright or trademark of contributed content by contributors to this project. It's their content, they get to decide what happens to it. However, if they use another persons work or abuse another persons rights, the video in question may be removed. Unintentional copyright disputes will be genreally handled by the admin.
 
 Genreally, video's uploaded by the administrator are in the public domain under fair use.
 
