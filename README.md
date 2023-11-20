@@ -4,7 +4,7 @@ www.YouTube.com/BITC0IN
 
 Have a Bitcoin Video you want uploaded to the channel? submit your video here and we'll consider it for upload: https://github.com/Fiach-Dubh/BITCOIN-YouTube/issues/new
 
-or you can email holdit21@protonmail.com if you don't hav ea github account.
+or you can email holdit21@protonmail.com if you don't have a github account.
 
 Are You a Content Creator, Bitcoin Developer or Educator looking to amplify your voice? Are you looking for a larger audience? Would you like to contribute to an open source Bitcoin-only content project? 
 
