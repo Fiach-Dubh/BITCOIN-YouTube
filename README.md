@@ -1,4 +1,4 @@
-3.5 The First Open Source YouTube Channel
+3.6 The First Open Source YouTube Channel
 
 www.YouTube.com/BITC0IN
 
