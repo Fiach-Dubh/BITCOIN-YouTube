@@ -32,7 +32,7 @@ BITCOIN YouTube Tech Support Chat:
 
 Admin Contact:
 
-holdit21@protonmail.com
+rbitcoinca@gmail.com
 
 Reddit Discussion Threads on This Project: [https://www.reddit.com/r/Bitcoin/comments/y3t6yv/open_sourcing_the_bitcoin_youtube_channel_who/](https://www.reddit.com/r/Bitcoin/comments/y3t6yv/open_sourcing_the_bitcoin_youtube_channel_who/)
 [https://www.reddit.com/r/Bitcoin/comments/128lwds/the_bitcoin_youtube_is_a_bitcoinonly_open_source/](https://www.reddit.com/r/Bitcoin/comments/128lwds/the_bitcoin_youtube_is_a_bitcoinonly_open_source/)
