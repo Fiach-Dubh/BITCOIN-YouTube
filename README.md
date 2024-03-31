@@ -16,7 +16,7 @@ Want to join as a content contributor to the Channel?
 
 Make a request in "Issues" and try to answer these questions https://github.com/Fiach-Dubh/BITCOIN-YouTube/blob/main/Application%20Questions
 
-Don't have a Github account? Then send your application by email to: holdit21@protonmail.com
+Don't have a Github account? Then send your application by email to: rbitcoinca@gmail.com
 
 After reviewing your application and content samples, you may be sent an invitation to your gmail account or other email that is associated with your YouTube account. Once you accept this invite, you will have login access to the BITCOIN YouTube Studio. Simply log in to your YouTube account, and select "switch account" from the drop down menu, and then select "BITCOIN" and you're in! You can then upload, publish or use the BITCOIN YouTube account as you see fit. See below for more details.
 
