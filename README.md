@@ -170,8 +170,9 @@ If you would like our project and want to support us consider contributing via
 LNURL: 2140@ZBD.gg ⬅️⚡Help Us by Tipping BITCOIN⚡
 https://patreon.com/BITC0IN ⬅️ or tip us fiat
 
-Everything helps and is very much appreciated. Thank you,
+Everything helps and is very much appreciated. Thanko you,
   
 If you still want to help in other ways, consider joining our discord. We would love help from creatives! [https://discord.gg/K5H25KZHke](https://discord.gg/K5H25KZHke)
-
+Sultan Hamad AlDosari
 Thank you again for reading!
+@Sullltan123
