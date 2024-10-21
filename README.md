@@ -45,11 +45,11 @@ There's some great Bitcoin content out there, but it's all spread out in the vas
 
 Achievements:
 
-1,800,000 YouTube Channel Views
+4,200,000 YouTube Channel Views
 
-67000 YouTube Channel subscribers
+82000 YouTube Channel subscribers
 
-200+ Videos Uploaded
+400+ Videos Uploaded
 
 YouTube Channel is Verified ✅
 
@@ -163,6 +163,8 @@ If you own or are the origional creator of any uploaded content on BITCOIN YouTu
 Copyright and/or Trademark Ownership:
 
 All rights of uploaded works to the BITCOIN YouTube channel are that of the contributors. We make no claims of ownership on the copyright or trademark of contributed content by contributors to this project. It's their content, they get to decide what happens to it. However, if they use another persons work or abuse another persons rights, the video in question may be removed. Unintentional copyright disputes will be genreally handled by the admin.
+
+Some content is marked © BITCOIN Productions 2024, but not all.
 
 Thank you for reading through this project. If you have any questions, feel free to ask!
 If you would like our project and want to support us consider contributing via
